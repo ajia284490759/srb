@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2022-01-24
  */
 @RestController
-@RequestMapping("/lendItemReturn")
+@RequestMapping("/api/core/lendItemReturn")
 public class LendItemReturnController {
 
 }
