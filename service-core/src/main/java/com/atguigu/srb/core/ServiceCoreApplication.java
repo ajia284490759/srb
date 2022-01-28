@@ -15,7 +15,7 @@ import org.springframework.context.annotation.ComponentScan;
  * @Version:1.0
  */
 @SpringBootApplication
-@ComponentScan({"com.atguigu.srb"})
+@ComponentScan({"com.atguigu.srb", "com.atguigu.common"})
 public class ServiceCoreApplication {
 
     public static void main(String[] args) {
